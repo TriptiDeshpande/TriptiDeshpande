@@ -9,6 +9,7 @@
 I’m an **aspiring Embedded Software Engineer** with a specialized academic background in **Smart, Connected & Autonomous Vehicles** and an evolving professional focus on **Automotive Functional Safety, Embedded Software Development, and IoT systems**.
 
 My core strengths lie in:
+
 **Languages:** C, Python, Embedded C  
 **Boards:** Arduino Uno, Raspberry Pi 3  
 **Tools:** PicsimLab, Wokwi, Node-RED, Arduino IDE, MATLAB, Simulink, Stateflow  
