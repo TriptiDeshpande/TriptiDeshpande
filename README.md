@@ -24,8 +24,8 @@ I’m an **aspiring Embedded Software Engineer** with a specialized academic bac
 
 #### Software & Standards  
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-Classic-blue?style=for-the-badge)  
-![ISO 26262](https://img.shields.io/badge/ISO_26262-Standard-lavender?style=for-the-badge)  
-![SOTIF](https://img.shields.io/badge/SOTIF-Standard-lilac?style=for-the-badge)
+![ISO 26262](https://img.shields.io/badge/ISO_26262-Standard-23C51A4A?style=for-the-badge)  
+![SOTIF](https://img.shields.io/badge/SOTIF-Standard-pink?style=for-the-badge)
 
 ---
 
