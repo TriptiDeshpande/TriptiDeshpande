@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Tripti Deshpande
 
 🚗 Embedded Systems | Automotive Functional Safety | IoT Developer  
-🎓 MSc in Smart, Connected & Autonomous Vehicles | University of Warwick  
-📍 India | 📫 triptideshpande9698@gmail.com | 🌐 [GitHub](https://github.com/yourusername)
+
+📍 India | 📫 triptideshpande9698@gmail.com 
 
 ---
 
@@ -43,9 +41,4 @@ If you're building something meaningful at the intersection of **embedded softwa
 > _"I’m here to solve problems, grow fast, and engineer systems that matter.”_
 
 ---
-💻 Tech Stack  
-**Languages:** C, Python, Embedded C  
-**Boards:** Arduino Uno, Raspberry Pi 3  
-**Tools:** PicsimLab, Wokwi, Node-RED, Arduino IDE, Simulink, Stateflow  
-**Protocols:** CAN, UART, SPI, I2C, MQTT, HTTP  
-**Software/Standards:** AUTOSAR Classic, ISO 26262, SOTIF  
+
