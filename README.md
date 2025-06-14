@@ -2,8 +2,6 @@
 
 🚗 Embedded Systems | Automotive Functional Safety | Embedded IoT 
 
-📍 India | 📫 triptideshpande9698@gmail.com 
-
 ---
 
 ## 🔧 About Me
