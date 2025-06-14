@@ -22,6 +22,10 @@ I’m an **aspiring Embedded Software Engineer** with a specialized academic bac
 #### Protocols  
 ![CAN](https://img.shields.io/badge/CAN-yellow?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-blue?style=for-the-badge)  ![SPI](https://img.shields.io/badge/SPI-orange?style=for-the-badge)  ![I2C](https://img.shields.io/badge/I2C-green?style=for-the-badge)  ![MQTT](https://img.shields.io/badge/MQTT-teal?style=for-the-badge)  ![HTTP](https://img.shields.io/badge/HTTP-teal?style=for-the-badge)  
 
+#### Software & Standards  
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-Classic-blue?style=for-the-badge)  
+![ISO 26262](https://img.shields.io/badge/ISO_26262-Standard-lavender?style=for-the-badge)  
+![SOTIF](https://img.shields.io/badge/SOTIF-Standard-lilac?style=for-the-badge)
 
 ---
 
@@ -47,11 +51,4 @@ If you're building something meaningful at the intersection of **embedded softwa
 
 ---
 
-![MQTT](https://img.shields.io/badge/MQTT-Protocol-44CC11?style=for-the-badge)  
-![HTTP](https://img.shields.io/badge/HTTP-Protocol-gray?style=for-the-badge)
-
-#### Software & Standards  
-![AUTOSAR](https://img.shields.io/badge/AUTOSAR-Classic-blue?style=for-the-badge)  
-![ISO 26262](https://img.shields.io/badge/ISO_26262-Standard-orange?style=for-the-badge)  
-![SOTIF](https://img.shields.io/badge/SOTIF-Standard-010B13?style=for-the-badge)
 
