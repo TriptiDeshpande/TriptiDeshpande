@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 About Me
+## 😊 About Me
 
 I’m an **aspiring Embedded Software Engineer** with a specialized academic background in **Smart, Connected & Autonomous Vehicles** and an evolving professional focus on **Automotive Functional Safety, Embedded Software Development, and IoT systems**.
 
