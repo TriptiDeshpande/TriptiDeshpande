@@ -12,7 +12,7 @@ I’m an **aspiring Embedded Software Engineer** with a specialized academic bac
 
 #### Languages  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python)  
+![](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python) 
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-%23007ACC.svg?&style=for-the-badge&logo=c)
 
 #### Boards  
