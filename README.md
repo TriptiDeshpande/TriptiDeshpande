@@ -1,4 +1,4 @@
-# 👋 Hello everyone!, I'm Tripti Deshpande
+# 👋 Hello!, I'm Tripti Deshpande
 
 🚗 Embedded Systems | Automotive Functional Safety | Embedded IoT 
 
