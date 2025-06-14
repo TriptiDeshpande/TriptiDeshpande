@@ -9,6 +9,38 @@
 I’m an **aspiring Embedded Software Engineer** with a specialized academic background in **Smart, Connected & Autonomous Vehicles** and an evolving professional focus on **Automotive Functional Safety, Embedded Software Development, and IoT systems**.
 
 My core strengths lie in:
+## 🧰 Tech Stack
+
+### Languages  
+![](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c)  
+![](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python)  
+![](https://img.shields.io/badge/Embedded_C-%23007ACC.svg?&style=for-the-badge&logo=c)
+
+### Boards  
+![](https://img.shields.io/badge/Arduino_Uno-%23A1B86E.svg?&style=for-the-badge&logo=arduino)  
+![](https://img.shields.io/badge/Raspberry_Pi_3-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi)
+
+### Tools  
+![](https://img.shields.io/badge/PicsimLab–blue?style=for-the-badge)  
+![](https://img.shields.io/badge/Wokwi–blueviolet?style=for-the-badge)  
+![](https://img.shields.io/badge/Node‑RED‑FF3C4A.svg?&style=for-the-badge&logo=node-red&logoColor=white)  
+![](https://img.shields.io/badge/Arduino_IDE‑00979D.svg?&style=for-the-badge&logo=arduino-ide&logoColor=white)  
+![](https://img.shields.io/badge/MATLAB‑F0F0F0.svg?&style=for-the-badge&logo=mathworks)  
+![](https://img.shields.io/badge/Simulink‑005KDI.svg?&style=for-the-badge&logo=simulink&logoColor=white)  
+![](https://img.shields.io/badge/Stateflow‑005KDI.svg?&style=for-the-badge&logo=stateflow&logoColor=white)
+
+### Protocols  
+![](https://img.shields.io/badge/CAN‑Protocol-yellowgreen?style=for-the-badge)  
+![](https://img.shields.io/badge/UART‑Protocol-blue?style=for-the-badge)  
+![](https://img.shields.io/badge/SPI‑Protocol-orange?style=for-the-badge)  
+![](https://img.shields.io/badge/I2C‑Protocol-teal?style=for-the-badge)  
+![](https://img.shields.io/badge/MQTT‑Protocol‑44CC11?style=for-the-badge)  
+![](https://img.shields.io/badge/HTTP‑Protocol‑gray?style=for-the-badge)
+
+### Software & Standards  
+![](https://img.shields.io/badge/AUTOSAR‑Classic‑blue?style=for-the-badge)  
+![](https://img.shields.io/badge/ISO‑26262‑orange?style=for-the-badge)  
+![](https://img.shields.io/badge/SOTIF‑010B13?style=for-the-badge)
 
 **Languages:** C, Python, Embedded C  
 **Boards:** Arduino Uno, Raspberry Pi 3  
